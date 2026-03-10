@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m [**Michał**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), a researcher based in Poland.
+I’m [**Michał**](https://mwlodarzc.github.io/), a researcher based in Poland.
 
 I conduct experiments and write research papers on ML related topics.
 
